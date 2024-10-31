@@ -1,6 +1,6 @@
 # Anastasiia Kolmakova
 
-<!-- Photo here -->
+![Anastasiia Kolmakova](photo.jpg)
 
 ---
 
@@ -73,3 +73,9 @@ _March 2024 – Present_
 ### Hobbies
 
 In my free time, I play squash and dance, both of which give me energy and motivation. I also enjoy traveling and exploring new activities.
+
+---
+
+```javascript
+console.log("Hello, World! Thanks for reading this after the end");
+```
